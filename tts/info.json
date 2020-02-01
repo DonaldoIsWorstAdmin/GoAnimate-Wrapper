@@ -24,6 +24,7 @@
 		"sv": "Swedish",
 		"ko": "Korean",
 		"pl": "Polish",
+		"an": "Angolian",
 		"nl": "Dutch"
 	},
 	"voices": {
@@ -2674,6 +2675,14 @@
 			"source": "voiceforge",
 			"arg": "Marta",
 			"desc": "Marta"
+		},
+		"luciana": {
+			"country": "BR",
+			"language": "an",
+			"gender": "F",
+			"source": "ispeech",
+			"arg": 27,
+			"desc": "Luciana"
 		}
 	}
 }
